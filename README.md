@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-terminal-v2.svg" alt="Darius Cornescu — AI engineer. Agentic systems and RAG, computer vision, health tech and sprinting." width="960" />
+  <img src="assets/profile-card-2026-10.svg" alt="Darius Cornescu — AI engineer. Agentic systems and RAG, computer vision, health tech and sprinting." width="960" />
 </p>
 
 I'm an AI engineer in Romania, building agentic and retrieval-based systems at work and applied machine learning projects on the side. I'm doing an MSc in Artificial Intelligence at the University of Bucharest, after a BSc in AI at Babeș-Bolyai University.
