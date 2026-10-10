@@ -1,20 +1,16 @@
 <p align="center">
-  <img src="assets/ascii-portrait.png" alt="ASCII portrait of Darius Cornescu in white and cyan" width="420" />
+  <img src="assets/profile-terminal.svg" alt="Darius Cornescu — AI and software developer. Applied AI, computer vision, health and sport." width="960" />
 </p>
 
-## Hi there 👋
+### Selected projects
 
-<!--
-**DariusCornescu/DariusCornescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project | What I'm building |
+| :--- | :--- |
+| [DermaLens](https://github.com/DariusCornescu/DermaLens) | Skin lesion analysis with explainable model predictions. |
+| [Intent Qualification](https://github.com/DariusCornescu/Intent-Qualification-Verdion) | Explore the project and implementation. |
+| [Crux](https://github.com/DariusCornescu/Crux) | Personal training analytics with Strava integration and AI reports. |
+| [Flick](https://github.com/DariusCornescu/Flick) | A desktop writing assistant with local and API-based LLMs. |
+| [Mimesiss](https://github.com/DariusCornescu/WS-Mimesiss) | Workshop management, registrations, payments and QR attendance. |
+| [House Price Prediction](https://github.com/DariusCornescu/House-price-prediction) | From data exploration and ML experiments to a web application. |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[University projects & coursework →](https://github.com/DariusCornescu/University-UBB-Artificial_Intelligence-Projects)
