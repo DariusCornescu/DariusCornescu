@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-terminal.svg" alt="Darius Cornescu — AI and software developer. Applied AI, computer vision, health and sport." width="960" />
+  <img src="assets/profile-terminal-v2.svg" alt="Darius Cornescu — AI and software developer. Applied AI, computer vision, health and sport." width="960" />
 </p>
 
 ### Selected projects
