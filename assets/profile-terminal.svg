@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="490" viewBox="0 0 960 490" role="img" aria-labelledby="title desc">
-<title id="title">Darius Cornescu — AI and software</title><desc id="desc">Terminal profile with an ASCII portrait. Focus: applied AI, computer vision, useful software. Python, TypeScript, PyTorch, FastAPI, Next.js. Interests: health, sport, everyday tools.</desc>
+<title id="title">Darius Cornescu — AI engineer</title><desc id="desc">Terminal profile with an ASCII portrait. Focus: LLM agents and RAG, computer vision, useful software. Stack: Python, TypeScript, FastAPI, Next.js, TensorFlow, PyTorch, PostgreSQL, Docker. Interests: health tech, sprinting, philosophy, tools.</desc>
 <rect x="1" y="1" width="958" height="488" rx="18" fill="#0d1117" stroke="#30363d"/>
 <path d="M1 47H959" stroke="#30363d"/>
 <circle cx="25" cy="24" r="5" fill="#ff7b72"/><circle cx="43" cy="24" r="5" fill="#e3b341"/><circle cx="61" cy="24" r="5" fill="#3fb950"/>
@@ -9,15 +9,15 @@
 <g font-family="monospace">
 <text x="375" y="100" fill="#7ee787" font-size="15">$ whoami</text>
 <text x="375" y="143" fill="#f0f6fc" font-size="30" font-weight="bold">Darius Cornescu</text>
-<text x="375" y="174" fill="#8b949e" font-size="15">AI &amp; software developer · Romania</text>
+<text x="375" y="174" fill="#8b949e" font-size="15">AI engineer · Agentic systems &amp; RAG · Romania</text>
 <text x="375" y="230" fill="#ffa657" font-size="15">Focus</text>
-<text x="485" y="230" fill="#c9d1d9" font-size="15">Applied AI · Computer vision</text>
+<text x="485" y="230" fill="#c9d1d9" font-size="15">LLM agents &amp; RAG · Computer vision</text>
 <text x="485" y="254" fill="#c9d1d9" font-size="15">Building useful software</text>
 <text x="375" y="300" fill="#ffa657" font-size="15">Stack</text>
-<text x="485" y="300" fill="#c9d1d9" font-size="15">Python · TypeScript · PyTorch</text>
-<text x="485" y="324" fill="#c9d1d9" font-size="15">FastAPI · Next.js</text>
+<text x="485" y="300" fill="#c9d1d9" font-size="15">Python · TypeScript · FastAPI · Next.js</text>
+<text x="485" y="324" fill="#c9d1d9" font-size="15">TensorFlow · PyTorch · PostgreSQL · Docker</text>
 <text x="375" y="370" fill="#ffa657" font-size="15">Interests</text>
-<text x="485" y="370" fill="#c9d1d9" font-size="15">Health · Sport · Everyday tools</text>
+<text x="485" y="370" fill="#c9d1d9" font-size="15">Health tech · Sprinting · Philosophy · Tools</text>
 <text x="375" y="429" fill="#7ee787" font-size="15">$ let's build something</text>
 <rect x="598" y="416" width="9" height="17" fill="#7ee787"><animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></rect>
 </g></svg>
