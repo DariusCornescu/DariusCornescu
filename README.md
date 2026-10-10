@@ -4,6 +4,8 @@
 
 I'm an AI engineer in Romania, building agentic and retrieval-based systems at work and applied machine learning projects on the side. I'm doing an MSc in Artificial Intelligence at the University of Bucharest, after a BSc in AI at Babeș-Bolyai University.
 
+[LinkedIn](https://www.linkedin.com/in/cornescu-darius/) · Website (coming soon)
+
 ### Selected projects
 
 | Project | What it is |
