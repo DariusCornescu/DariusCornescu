@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ascii-portrait.png" alt="ASCII portrait of Darius Cornescu in white and cyan" width="420" />
+</p>
+
 ## Hi there 👋
 
 <!--
